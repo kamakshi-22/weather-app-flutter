@@ -1,8 +1,12 @@
-# weather_app
+# Weather App
 
-A new Flutter project.
+A simple weather app using openweathermap api. 
+<br><br>
+<img src="https://github.com/kamakshi-22/weather-app-flutter/assets/55135926/9cddb97f-3634-451b-926b-652bdcdab3cd" alt="Image" style="width: 250px; height: 550px;" />
 
-## Getting Started
+
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
