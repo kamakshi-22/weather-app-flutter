@@ -22,7 +22,7 @@ class _HomeScreenState extends State<HomeScreen> {
   var weatherData;
   Future<void> fetchData(String? query) async {
     query ??= "New York";
-    const apiKey = '1cdc594fa598910075ee4abec85549eb';
+    const apiKey = 'API_KEY';
     String apiUrl =
         'https://api.openweathermap.org/data/2.5/weather?q=$query&appid=$apiKey';
     try {
